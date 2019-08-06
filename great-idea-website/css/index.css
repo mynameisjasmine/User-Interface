@@ -64,3 +64,32 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+header {
+position: relative;
+/*border: 2px solid red; */
+margin: 5px 0px 0px 0px;
+padding-left: 200px; 
+}
+
+a {
+text-decoration: none;
+color: gray;
+
+}
+
+
+.nav-link {
+	/*border: 2px solid red; */
+	padding-right: 100px;	
+}
+
+.logo {
+	/* border: 2px solid red; */
+	margin-top: 20px;
+	/* position: absolute;
+	right: 15px; */	
+	right: 30px;
+	
+}
